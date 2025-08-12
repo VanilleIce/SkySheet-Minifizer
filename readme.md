@@ -1,6 +1,5 @@
-"""
-SkySheet File Minifier
-======================
+
+# SkySheet File Minifier
 
 This script processes JSON, TXT, and SkySheet files by:
 1. Creating backups in a "backup" subdirectory
@@ -22,4 +21,3 @@ Usage:
 3. Originals preserved in "backup" folders
 
 Developed for SkySheet Project - https://github.com/yourusername/skysheet
-"""
