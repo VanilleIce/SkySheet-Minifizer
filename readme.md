@@ -19,5 +19,3 @@ Usage:
 1. Drag files/folders onto mini.bat
 2. Processed files appear as FILENAME.skysheet
 3. Originals preserved in "backup" folders
-
-Developed for SkySheet Project - https://github.com/yourusername/skysheet
