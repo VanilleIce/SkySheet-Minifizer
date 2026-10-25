@@ -1,0 +1,4 @@
+# Minifizer - Requirements
+# Python 3.10+
+
+pillow==13.0.0
